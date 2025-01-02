@@ -33,3 +33,9 @@
 </div><br/>
 
 Meu objetivo é transformar ideias em aplicações que façam a diferença no mundo digital.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zryanzito/zryanzito/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zryanzito/zryanzito/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zryanzito/zryanzito/output/github-contribution-grid-snake.svg">
+</picture>
