@@ -1,6 +1,8 @@
-## Olá, eu me chamo Ryan
+## Seja bem vindo
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=https://cdn.discordapp.com/attachments/1038272728991535124/1324231808828833813/teste.png?ex=67780f3a&is=6776bdba&hm=afe550ba99146c52c00daf8f12b5b25fb833cb56c4e121bab41f14e7401fd45f&)](https://ryandev.com.br)
+- Meu nome é Ryan.
+- Sou programador Full Stack.
+- Estudante de Engenharia de Software.
 
 <div>
     <a href="https://github.com/zRyanZito">
@@ -10,6 +12,7 @@
 
 ### Social
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=https://cdn.discordapp.com/attachments/1038272728991535124/1324231808828833813/teste.png?ex=67780f3a&is=6776bdba&hm=afe550ba99146c52c00daf8f12b5b25fb833cb56c4e121bab41f14e7401fd45f&)](https://ryandev.com.br)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FCkpJh36P7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanthiago.dsantos@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-santos-41655127a/)
