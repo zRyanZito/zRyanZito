@@ -1,8 +1,9 @@
-## Olá, eu me chamo Ryan 👋 
+## Olá, eu me chamo Ryan
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=https://cdn.discordapp.com/attachments/1038272728991535124/1324231808828833813/teste.png?ex=67780f3a&is=6776bdba&hm=afe550ba99146c52c00daf8f12b5b25fb833cb56c4e121bab41f14e7401fd45f&)](https://ryandev.com.br)
 
 ![zRyanZito GitHub stats](https://github-readme-stats.vercel.app/api?username=zryanzito&show_icons=true&theme=tokyonight)
+![zRyanZito Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzito&hide_progress=true)
 
 ### Social
 
