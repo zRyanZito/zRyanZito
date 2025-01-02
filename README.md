@@ -12,10 +12,10 @@
 
 ### Social
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://ryandev.com.br)
-[![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://www.linkedin.com/in/ryan-santos-41655127a/)
-[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://discord.gg/FCkpJh36P7)
-[![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](mailto:ryanthiago.dsantos@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://ryandev.com.br) 
+[![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://www.linkedin.com/in/ryan-santos-41655127a/) 
+[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://discord.gg/FCkpJh36P7) 
+[![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](mailto:ryanthiago.dsantos@gmail.com) 
 
 
 ### Tecnologias
