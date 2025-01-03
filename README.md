@@ -7,7 +7,7 @@
 <div>
     <a href="https://github.com/zRyanZito">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zryanzito&show_icons=true&theme=tokyonight" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRyanZito&layout=compact& />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzito&layout=compact& />
 </div>
 
 ## Social
