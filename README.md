@@ -4,24 +4,12 @@
   <h1>Software Engineer</h1>
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zryanzito&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="V01demort github stats" />
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzito&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" />
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzito&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" /><img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zryanzito&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="V01demort github stats" />
   </div>
 
   <h2>Social</h2>
   <div>
-    <a href="https://ryandev.com.br">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Portfólio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/zryanzito/">
-      <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="LinkedIn"/>
-    </a>
-    <a href="https://discord.gg/FCkpJh36P7">
-      <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Discord"/>
-    </a>
-    <a href="mailto:ryanthiago.dsantos@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Gmail"/>
-    </a>
+    <a href="https://ryandev.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Portfólio"/></a> <a href="https://www.linkedin.com/in/zryanzito/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="LinkedIn"/></a> <a href="https://discord.gg/FCkpJh36P7"><img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Discord"/></a> <a href="mailto:ryanthiago.dsantos@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff" alt="Gmail"/></a>
   </div>
 
   <h2>Tecnologias</h2>
