@@ -1,4 +1,4 @@
-## Seja bem vindo
+# Seja bem vindo
 
 - Meu nome é Ryan.
 - Sou programador Full Stack.
@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzito&layout=compact&theme=tokyonight" />
 </div>
 
-### Social
+## Social
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://ryandev.com.br) 
 [![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=esbuild&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](https://www.linkedin.com/in/zryanzito/) 
@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](mailto:ryanthiago.dsantos@gmail.com) 
 
 
-### Tecnologias
+## Tecnologias
 
 <div style="display-inline-block">
     <img align="center" height="35" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
